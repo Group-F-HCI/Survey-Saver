@@ -9,7 +9,7 @@ yang telah dibuat terlebih dahulu di website lain seperti <i>google form</i>. Se
   
 <p>Berikut ini merupakan beberapa tampilan menu yang akan ada di website <b>Suver</b></p>
 
-<img src="/Image/HomeBeforeLogin.jpg" height=400px width=900>
+
 
 <h1>Latar Belakang</h1>
 <p>Banyak diantara orang-orang yang menyebarkan survey daring hanya lewat media sosial saja sehingga beberapa diantaranya mungkin enggan untuk mengisi karena tidak menguntungkan bagi orang tersebut. Selain itu, beberapa orang memiliki pemikiran 'mereka pasti membantu, jadi tidak perlu saya yang melakukannya'.  Oleh karena itu, aplikasi ini dibuat agar nantinya bisa memberikan apresiasi bagi pengisi survey tersebut sehingga.</p>
