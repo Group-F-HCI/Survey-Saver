@@ -6,7 +6,17 @@
 yang telah dibuat terlebih dahulu di website lain seperti <i>google form</i>. Setelah dibuat, link tersebut dapat disimpan di web ini agar nantinya pengguna lain bisa mengisi <i>link</i> tersebut.</p>
 
 <p>Web ini memiliki beberapa fitur yang mirip seperti <i>game</i> yang tentunya menarik sekali untuk diikuti. Contohnya adalah mendapatkan <i>title</i> tergantung dari seberapa banyak poin yang dikumpulkan. Poin yang ada di sini terdapat dua jenis, yaitu <i>send point(SP)</i> dan <i>fill point<FP></i>. <i>SP</i> dapat bertambah dengan mengisi form-form yang diberikan oleh pengguna lain. Sedangkan, <i>FP</i> dapat bertambah dengan membuat form-form tersebut</p>
-  
+
+Berikut merupakan beberapa tampilan website yang nanti akan dibuat :
+
+<b>Beranda sebelum login</b><br>
+<img src="/Image/HomeBeforeLogin1.jpg" height="256" width="426.7"><br><br>
+
+<b>Beranda setelah login</b><br>
+<img src="/Image/HomeAfterLogin.jpg" height="833.3" width="426.7"><br><br>
+
+<b>Informasi mengenai survey dan tempat pengisian survey p</b><br>
+<img src="/Image/Show Survey.jpg" height="400" width="426.7"><br><br>
 
 <h1>Latar Belakang</h1>
 <p>Banyak diantara orang-orang yang menyebarkan survey daring hanya lewat media sosial saja sehingga beberapa diantaranya mungkin enggan untuk mengisi karena tidak menguntungkan bagi orang tersebut. Selain itu, beberapa orang memiliki pemikiran 'mereka pasti membantu, jadi tidak perlu saya yang melakukannya'.  Oleh karena itu, aplikasi ini dibuat agar nantinya bisa memberikan apresiasi bagi pengisi survey tersebut sehingga.</p>
@@ -19,3 +29,6 @@ yang telah dibuat terlebih dahulu di website lain seperti <i>google form</i>. Se
   <li>Pemberian title jika telah memnuhi syarat</li>
   <li>Mengetahui identitas singkat pengirim survey</li>
 </ol>
+
+<h1>Bagaimana Cara Kerja Web ini?</h1>
+Cara kerja web ini akan ditampilkan dengan klik <a href="#">LINK INI</a>
