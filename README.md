@@ -8,7 +8,7 @@ yang telah dibuat terlebih dahulu di website lain seperti <i>google form</i>. Se
 <p>Web ini memiliki beberapa fitur yang mirip seperti <i>game</i> yang tentunya menarik sekali untuk diikuti. Contohnya adalah mendapatkan <i>title</i> tergantung dari seberapa banyak poin yang dikumpulkan. Poin yang ada di sini terdapat dua jenis, yaitu <i>send point(SP)</i> dan <i>fill point<FP></i>. <i>SP</i> dapat bertambah dengan mengisi form-form yang diberikan oleh pengguna lain. Sedangkan, <i>FP</i> dapat bertambah dengan membuat form-form tersebut</p>
   
 <p>Berikut ini merupakan beberapa tampilan menu yang akan ada di website <b>Suver</b></p>
-
+<img src="/Image/HomeBeforeLogin.jpg" height=200px width=450>
 
 
 <h1>Latar Belakang</h1>
