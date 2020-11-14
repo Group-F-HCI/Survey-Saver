@@ -15,7 +15,7 @@ Berikut merupakan beberapa tampilan website yang nanti akan dibuat :
 <b>Beranda setelah login</b><br>
 <img src="/Image/HomeAfterLogin.jpg" height="833.3" width="426.7"><br><br>
 
-<b>Informasi mengenai survey dan tempat pengisian survey p</b><br>
+<b>Informasi mengenai survey dan tempat pengisian survey</b><br>
 <img src="/Image/Show Survey.jpg" height="400" width="426.7"><br><br>
 
 <h1>Latar Belakang</h1>
