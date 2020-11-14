@@ -10,7 +10,7 @@ yang telah dibuat terlebih dahulu di website lain seperti <i>google form</i>. Se
 Berikut merupakan beberapa tampilan website yang nanti akan dibuat :
 
 <b>Beranda sebelum login</b><br>
-<img src="/Image/HomeBeforeLogin1.jpg" height="256" width="426.7"><br><br>
+<img src="/Image/HomeBeforeLogin01.jpg" height="256" width="426.7"><br><br>
 
 <b>Beranda setelah login</b><br>
 <img src="/Image/HomeAfterLogin.jpg" height="833.3" width="426.7"><br><br>
@@ -19,8 +19,9 @@ Berikut merupakan beberapa tampilan website yang nanti akan dibuat :
 <img src="/Image/Show Survey.jpg" height="400" width="426.7"><br><br>
 
 <h1>Latar Belakang</h1>
-<p>Banyak diantara orang-orang yang menyebarkan survey daring hanya lewat media sosial saja sehingga beberapa diantaranya mungkin enggan untuk mengisi karena tidak menguntungkan bagi orang tersebut. Selain itu, beberapa orang memiliki pemikiran 'mereka pasti membantu, jadi tidak perlu saya yang melakukannya'.  Oleh karena itu, aplikasi ini dibuat agar nantinya bisa memberikan apresiasi bagi pengisi survey tersebut sehingga.</p>
+<p>Berdasarkan survey singkat yang pernah kami lakukan, rata-rata orang sering melihat survey yang disebar oleh orang lain. Sebagian dari mereka mengisi survey tersebut dan beberapa diantaranya ada yang mengabaikannya. Selain itu, berdasarkan pengalaman kami, orang-orang cenderung akan mengisi survey jika disebar secara personal dibandingkan di suatu grup. Oleh karena itu, kami ingin membuat suatu website yang bisa menampung survey agar dapat menambah data di survey tersebut agar mencapai target.</p>
 
+<p>Berdasarkan hasil survey tersebut, kami menyadari bahwa <i>website</i> ini jarang sekali diketahui oleh orang-orang sehingga kami melihat peluang untuk membuat <i>website</i> ini agar bisa membantu mereka. Kami akan berusaha membuat tampilan <i>website</i> sesimpel mungkin agar pengguna dapat mudah memahaminya.</p>
 
 <h1>Fitur yang akan Tersedia</h1>
 <ol>
